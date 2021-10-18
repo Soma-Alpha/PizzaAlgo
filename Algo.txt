@@ -3,3 +3,5 @@ How to order a pizza!
 
 Step 1. Determine where to get your pizza.
 Step 2. Decide on pickup or delivery.
+Step 3. Choose your pizza and toppings.
+Step 4. Choose drinks or any extras.
