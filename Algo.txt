@@ -13,3 +13,7 @@ Step 9. Receive and pay for the pizza.
         Step 9.1 Pay by phone if using a credit card for delivery. 
         Step 9.2 Have payment ready otherwise, including tip.
 Step 10. Either Wait for a delivery or Head to the store at the right time for pickup.
+
+Steps to follow for wrong order.
+1. mention it to the delivery person or make a call.
+2. tell the problem : ask for a refund or change in order.
